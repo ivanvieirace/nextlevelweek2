@@ -2,21 +2,32 @@ import React from "react";
 import whatsappIcon from "../../assets/images/icons/whatsapp.svg";
 import "./styles.css";
 
-function TeacherItem() {
+export interface Teacher {
+  id: number;
+  avatar: string;
+  bio: string;
+  cost: number;
+  name: string;
+  subject: string;
+  whatsapp: string;
+}
+
+interface TeacherItemProps {
+  teacher: Teacher;
+}
+
+const TeacherItem: React.FC<TeacherItemProps> = ({ teacher }) => {
   return (
     <article className="teacher-item">
       <header>
-        <img
-          src="https://avatars2.githubusercontent.com/u/10304188?s=460&u=580767d2e56832dfbb20ac48e6ac846a6d98e0f8&v=4"
-          alt="Ivan Vieira"
-        />
+        <img src={teacher.avatar} alt={teacher.name} />
         <div>
-          <strong>Ivan Vieira</strong>
-          <span>Desenvolvimento de Sistemas</span>
+          <strong>{teacher.name} </strong>
+          <span>{teacher.subject}</span>
         </div>
       </header>
       <p>
-        Entusiasta de Novas Tecnologias e Desenvolvimento de Aplicações.
+        {teacher.bio}
         <br />
         <br />
         Apaixonado pela Disseminação do Conhecimento, transformando a Humanidade
@@ -26,7 +37,7 @@ function TeacherItem() {
       <footer>
         <p>
           Preço / Hora
-          <strong>R$ 100,00</strong>
+          <strong>R$ {teacher.cost}</strong>
         </p>
         <button type="button">
           <img src={whatsappIcon} alt="Entrar em Contato" />
@@ -35,6 +46,6 @@ function TeacherItem() {
       </footer>
     </article>
   );
-}
+};
 
 export default TeacherItem;
