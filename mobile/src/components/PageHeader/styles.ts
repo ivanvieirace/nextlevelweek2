@@ -2,7 +2,10 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
   container: {
-    padding: 40,
+    paddingLeft: 30,
+    paddingRight: 30,
+    paddingTop: 35,
+    paddingBottom: 50,
     backgroundColor: "#2A54DD",
   },
   topBar: {
@@ -16,7 +19,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     lineHeight: 32,
     maxWidth: 160,
-    marginVertical: 20,
+    marginVertical: 15,
   },
 });
 
