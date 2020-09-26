@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     padding: 6,
   },
   searchForm: {
-    marginBottom: 4,
+    marginBottom: 2,
   },
   label: {
     color: "#D4C2FF",
@@ -31,6 +31,20 @@ const styles = StyleSheet.create({
   },
   inputBlock: {
     width: "48%",
+  },
+  submitButton: {
+    backgroundColor: "#04D361",
+    height: 56,
+    marginTop: 3,
+    borderRadius: 8,
+    justifyContent: "center",
+    flexDirection: "row",
+    alignItems: "center",
+  },
+  submitButtonText: {
+    color: "#FFF",
+    fontFamily: "Archivo_700Bold",
+    fontSize: 16,
   },
 });
 
