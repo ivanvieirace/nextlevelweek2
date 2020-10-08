@@ -25,7 +25,7 @@
 
 ## About
 
-React Native + ReactJS + NodeJS project developed on [RocketSeat NexLevelWeek](https://nextlevelweek.com/). This project is based on an application for connect students and teachers.
+React Native + ReactJS + NodeJS + Typescript project developed on RocketSeat NexLevelWeek #2. This project is based on an application for connect students and teachers.
 
 ## Technologies
 
@@ -57,3 +57,12 @@ This project was developed with the following technologies:
   - [React Navigation v5](https://reactnavigation.org/)
   - [styled-components](https://styled-components.com/)
   - [Axios](https://github.com/axios/axios)
+
+## Author
+
+<img  border-radius="50px" src="https://avatars2.githubusercontent.com/u/10304188?s=460&u=580767d2e56832dfbb20ac48e6ac846a6d98e0f8&v=4" width="100px" alt="Author"/>
+
+Made with :blue_heart: by Ivan Vieira :wave: [Get in touch!](https://www.linkedin.com/in/ivanvieira/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ivan_Vieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanvieira/)](https://www.linkedin.com/in/ivanvieira/)
+[![Gmail Badge](https://img.shields.io/badge/-ivanjr.ce@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivanjr.ce@gmail.com)](mailto:ivanjr.ce@gmail.com)
