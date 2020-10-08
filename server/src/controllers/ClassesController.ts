@@ -92,4 +92,13 @@ export default class ClassesController {
       });
     }
   }
+
+  async update(request: Request, response: Response) {
+    const { id, cost, subject } = request.body;
+
+    await db("classes").update({ subject }).where({ id });
+    await db("classes").update({ cost }).where({ id });
+
+    return response.send();
+  }
 }
