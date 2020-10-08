@@ -58,6 +58,12 @@ This project was developed with the following technologies:
   - [styled-components](https://styled-components.com/)
   - [Axios](https://github.com/axios/axios)
 
+## License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/ivanvieirace/nextlevelweek2/blob/master/LICENSE.md) for more information.
+
+---
+
 ## Author
 
 <img  border-radius="50px" src="https://avatars2.githubusercontent.com/u/10304188?s=460&u=580767d2e56832dfbb20ac48e6ac846a6d98e0f8&v=4" width="100px" alt="Author"/>
