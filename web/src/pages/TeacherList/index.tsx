@@ -39,16 +39,19 @@ function TeacherList() {
               setSubject(e.target.value);
             }}
             options={[
-              { value: "Artes", label: "Artes" },
-              { value: "Biologia", label: "Biologia" },
-              { value: "Ciências", label: "Ciências" },
-              { value: "Educação Física", label: "Educação Física" },
-              { value: "Física", label: "Física" },
-              { value: "Geografia", label: "Geografia" },
-              { value: "História", label: "História" },
-              { value: "Matemática", label: "Matemática" },
-              { value: "Português", label: "Português" },
-              { value: "Química", label: "Química" },
+              {
+                value: "Análise de Sistemas",
+                label: "Análise de Sistemas",
+              },
+              { value: "Docker", label: "Docker" },
+              { value: "DotNet Core", label: "DotNet Core" },
+              { value: "CSharp", label: "CSharp" },
+              { value: "Java", label: "Java" },
+              { value: "MongoDB", label: "MongoDB" },
+              { value: "NodeJS", label: "NodeJS" },
+              { value: "ReactJS", label: "ReactJS" },
+              { value: "React Native", label: "React Native" },
+              { value: "SQL Server", label: "SQL Server" },
             ]}
           />
 
