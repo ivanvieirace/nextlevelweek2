@@ -19,7 +19,7 @@
 <h2 align="center">Proffy Web / Mobile</h2>
 <h1 align="center">
 <img src="./github/videoweb.gif"  width="620" alt="Proffy Web">
-<img src="./github/videomobile.gif"  width="180" alt="Proffy Mobile">
+<img src="./github/videomobile.gif"  width="185" alt="Proffy Mobile">
 </h1>
 
 <hr/>
