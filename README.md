@@ -28,6 +28,12 @@
 
 React Native + ReactJS + NodeJS + Typescript project developed on RocketSeat NexLevelWeek #2. This project is based on an application for connect students and teachers.
 
+## :pushpin: Content
+
+- [Technologies](#technologies)
+- [How to Run](#construction_worker-how-to-run)
+- [License](#closed_book-license)
+
 ## Technologies
 
 This project was developed with the following technologies:
@@ -63,7 +69,7 @@ This project was developed with the following technologies:
 
 # :construction_worker: How to run
 
-To clone and run this application, you'll need Git, Node.js v14.4.0 or higher + Yarn v1.22.4 or higher installed on your computer. From your command line:
+To clone and run this Project, you'll need Git, Node.js v14.4.0 or higher + Yarn v1.22.4 or higher installed on your computer. From your command line:
 
 ### Clone this repository
 
