@@ -24,15 +24,17 @@
 
 <hr/>
 
+## :pushpin: Content
+
+- [About](#about)
+- [Technologies](#technologies)
+- [How to Run](#construction_worker-how-to-run)
+- [Issues](#issues)
+- [License](#closed_book-license)
+
 ## About
 
 React Native + ReactJS + NodeJS + Typescript project developed on RocketSeat NexLevelWeek #2. This project is based on an application for connect students and teachers.
-
-## :pushpin: Content
-
-- [Technologies](#technologies)
-- [How to Run](#construction_worker-how-to-run)
-- [License](#closed_book-license)
 
 ## Technologies
 
@@ -123,6 +125,21 @@ $ npm install
 # Run Application
 $ yarn start
 ```
+
+## :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/ivanvieirace/nextlevelweek2/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+
+# :tada: Contributing
+
+First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
+
+Here's some tips:
+
+- Check the [issues page](https://github.com/ivanvieirace/nextlevelweek2/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+- Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
+
+Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 ## :closed_book: License
 
