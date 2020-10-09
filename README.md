@@ -59,6 +59,45 @@ This project was developed with the following technologies:
   - [styled-components](https://styled-components.com/)
   - [Axios](https://github.com/axios/axios)
 
+<hr/>
+
+## How To Use
+
+To clone and run this application, you'll need Git, Node.js v14.4.0 or higher + Yarn v1.22.4 or higher installed on your computer. From your command line:
+
+## Clone this repository
+
+\$ git clone https://github.com/ivanvieirace/nextlevelweek2.git
+
+Running
+To start the Web Server run the command
+
+## Entering in web directory
+
+\$ cd web
+
+## Run the web server
+
+\$ yarn start
+To start the Back Server run the command
+
+## Entering in Server directory
+
+\$ cd server
+
+## Run the Back Server
+
+\$ yarn start
+To run the mobile version run the command
+
+## Entering in Mobile directory
+
+\$ cd mobile
+
+## Run the Mobile Version
+
+\$ yarn start
+
 ## License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/ivanvieirace/nextlevelweek2/blob/master/LICENSE.md) for more information.
