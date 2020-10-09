@@ -68,43 +68,43 @@ To clone and run this application, you'll need Git, Node.js v14.4.0 or higher + 
 ## Clone this repository
 
 ```
-\$ git clone https://github.com/ivanvieirace/nextlevelweek2.git
+git clone https://github.com/ivanvieirace/nextlevelweek2.git
 ```
 
 ### Entering in API Server directory
 
 ```
-\$ cd server
+cd server
 ```
 
 ### Run the API Server
 
 ```
-\$ yarn start
+yarn start
 ```
 
 ### Entering in Web Version directory
 
 ```
-\$ cd web
+cd web
 ```
 
 ### Run the Proffy Web Version
 
 ```
-\$ yarn start
+yarn start
 ```
 
 ### Entering in Mobile Version directory
 
 ```
-\$ cd mobile
+cd mobile
 ```
 
 ### Run the Proffy Mobile Version
 
 ```
-\$ yarn start
+yarn start
 ```
 
 ## License
