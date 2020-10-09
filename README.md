@@ -65,46 +65,48 @@ This project was developed with the following technologies:
 
 To clone and run this application, you'll need Git, Node.js v14.4.0 or higher + Yarn v1.22.4 or higher installed on your computer. From your command line:
 
-## Clone this repository
+# :construction_worker: How to run
+
+### Clone this repository
 
 ```
-git clone https://github.com/ivanvieirace/nextlevelweek2.git
+$ git clone https://github.com/ivanvieirace/nextlevelweek2.git
 ```
 
 ### Entering in API Server directory
 
 ```
-cd server
+$ cd server
 ```
 
 ### Run the API Server
 
 ```
-yarn start
+$ yarn start
 ```
 
 ### Entering in Web Version directory
 
 ```
-cd web
+$ cd web
 ```
 
 ### Run the Proffy Web Version
 
 ```
-yarn start
+$ yarn start
 ```
 
 ### Entering in Mobile Version directory
 
 ```
-cd mobile
+$ cd mobile
 ```
 
 ### Run the Proffy Mobile Version
 
 ```
-yarn start
+$ yarn start
 ```
 
 ## License
