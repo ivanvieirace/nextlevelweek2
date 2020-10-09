@@ -73,39 +73,50 @@ To clone and run this application, you'll need Git, Node.js v14.4.0 or higher + 
 $ git clone https://github.com/ivanvieirace/nextlevelweek2.git
 ```
 
-### Entering in API Server directory
+## 📦 Run API
 
-```
+```bash
+# Go to Server folder
 $ cd server
-```
 
-### Run the API Server
+# Install Dependencies
+$ npm install
 
-```
+# Run Application
 $ yarn start
 ```
 
-### Entering in Web Version directory
+Access API at http://localhost:3333/
 
-```
+## 💻 Run Web Project
+
+```bash
+# Go to Web folder
 $ cd web
-```
 
-### Run the Proffy Web Version
+# Install Dependencies
+$ npm install
 
-```
+# Run Application
 $ yarn start
 ```
 
-### Entering in Mobile Version directory
+Go to http://localhost:3000/ to see the result.
 
-```
+## 📱 Run Mobile Project
+
+To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
+<br />
+After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
+
+```bash
+# Go to Mobile folder
 $ cd mobile
-```
 
-### Run the Proffy Mobile Version
+# Install Dependencies
+$ npm install
 
-```
+# Run Application
 $ yarn start
 ```
 
