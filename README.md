@@ -30,6 +30,7 @@
 - [Technologies](#technologies)
 - [How to Run](#construction_worker-how-to-run)
 - [Issues](#issues)
+- [Contributing](#tada-contributing)
 - [License](#closed_book-license)
 
 ## About
@@ -130,7 +131,7 @@ $ yarn start
 
 Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/ivanvieirace/nextlevelweek2/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-# :tada: Contributing
+## :tada: Contributing
 
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
